@@ -8,6 +8,7 @@ The Controller receives from jQuery the image path and parameters indicating wid
 Requirements
 ================
 - Laravel 11
+- Intervention 3
 - PHP 8.2
 - jQuery
 - Croppie.js
