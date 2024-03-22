@@ -5,8 +5,8 @@ The application creates a complete solution for custom image cropping within a w
 
 The Controller receives from jQuery the image path and parameters indicating width, height, x position, and y position. It addresses the aspect ratio in relation to the original image and applies a proportional and exact crop to the original image on the server.
 
-####Requirements:
-
+Requirements
+================
 - Laravel 11
 - PHP 8.2
 - jQuery
